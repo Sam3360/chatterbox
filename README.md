@@ -1,4 +1,4 @@
-# chatterbox
+# ChatterBox
 
 simple terminal style chat app made with html and firebase. live messages save automatically to firebase so chat history stays when you refresh.
 
