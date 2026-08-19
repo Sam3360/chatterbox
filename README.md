@@ -22,6 +22,7 @@ simple terminal style chat app made with html and firebase. live messages save a
 
 
 1. Go to the url attatched in the description or click below
+   
 [ChatterBox 📱](https://sam3360.github.io/chatterbox)
 
 ## setup firebase
