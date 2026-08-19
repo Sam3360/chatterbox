@@ -15,7 +15,11 @@ simple terminal style chat app made with html and firebase. live messages save a
 2. open `index.html` in any browser
 3. enter a handle and start chatting
 
+   
+---
    OR
+---
+
 
 1. Go to the url attatched in the description or click below
    [ChatterBox 📱](https://sam3360.github.io/chatterbox)
